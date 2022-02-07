@@ -95,8 +95,8 @@ public class Calculator implements ActionListener {
         frame.add(textfield);
         frame.setVisible(true);
     }
-
-    @Override
+    
+    
     public void actionPerformed(ActionEvent e) {
 
         for (int i = 0; i < 10; i++) {
